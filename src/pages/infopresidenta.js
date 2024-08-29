@@ -14,7 +14,6 @@ const Presidenta = () => {
           <div className="indiceInstitucional">
           
           <br/>
-             <a href="/infoInstitucional" role='button' className="aInst">Bienvenida de la presidenta</a> <br/><br/>
              <a href="/infoadministrador" role='button' className="aInst">Consejo de administrador</a> <br/><br/>
              <a href="/infoactosoficiales" role='button' className="aInst">Actos oficiales e institucionales</a> <br/><br/>
              <a href="/infocasaRey" role='button' className="aInst">Casa de S.M. el rey</a> <br/><br/>

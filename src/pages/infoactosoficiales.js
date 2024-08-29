@@ -15,13 +15,13 @@ const InfoOficiales = () => {
           <div className="indiceInstitucional">
           
           <br/>
-             <a href="/infoInstitucional" role='button' className="aInst">Bienvenida de la presidenta</a> <br/><br/>
+             <a href="/infopresidenta" role='button' className="aInst">Bienvenida de la presidenta</a> <br/><br/>
              <a href="/infohistoria" role='button' className="aInst">Conoce nuestra historia</a> <br/><br/>
              <a href="/infoadministrador" role='button' className="aInst">Consejo de administrador</a> <br/><br/>
              <a href="/infocasaRey" role='button' className="aInst">Casa de S.M. el rey</a> <br/><br/>
              <a href="/inforetratosOficiales" role='button' className="aInst">Retratos oficiales</a> <br/><br/>
              <a href="/infoministerio" role='button' className="aInst">Ministerio de la presidencia</a> <br/><br/>
-             <a href="/infopresidenta" role='button' className="aInst">Bienvenida de la presidenta</a> <br/><br/>
+             
           </div>
 
           <div className="Iinstitucional">
