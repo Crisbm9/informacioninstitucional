@@ -8,7 +8,7 @@ const Layout =({children})=>{
 <header>
 <StaticImage 
 style={{width: `200px`,height: `100px`, textAlign: `center`}}
-src="..\images\images.png"
+src="../images/images.png"
 />
 
 </header>
