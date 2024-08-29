@@ -6,10 +6,12 @@ const Layout =({children})=>{
   return(
 <>
 <header>
+<a href="/">
 <StaticImage 
 style={{width: `200px`,height: `100px`, textAlign: `center`}}
 src="../images/images.png"
 />
+</a>
 
 </header>
 <div>{children}</div>
