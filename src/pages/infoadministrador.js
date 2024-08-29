@@ -28,7 +28,7 @@ const Administracion = () => {
             <div className="imgInst">
                 <StaticImage 
                   style={{width: `1300px`,height: `200px`, textAlign: `center`}}
-                  src="..\images\Presidenta.jpg"
+                  src="../images/Presidenta.jpg"
                 />
             </div>
             <h3 style={{color:`#e2bb8f`}}>MIEMBROS NATOS
