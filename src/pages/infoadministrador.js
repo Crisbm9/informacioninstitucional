@@ -19,15 +19,16 @@ const Administracion = () => {
              <a href="/infoactosoficiales" role='button' className="aInst">Actos oficiales e institucionales</a> <br/><br/>
              <a href="/infocasaRey" role='button' className="aInst">Casa de S.M. el rey</a> <br/><br/>
              <a href="/inforetratosOficiales" role='button' className="aInst">Retratos oficiales</a> <br/><br/>
-             <a href="/infoministerio" role='button' className="aInst">Ministerio de la presidencia</a> <br/>
-
+             <a href="/infoministerio" role='button' className="aInst">Ministerio de la presidencia</a> <br/><br/>
+             <a href="/infopresidenta" role='button' className="aInst">Bienvenida de la presidenta</a> <br/><br/>
+     
           </div>
 
           <div className="Iinstitucional">
             <h1 style={{textAlign: `center`}}>Consejo de Administración</h1>  
             <div className="imgInst">
                 <StaticImage 
-                  style={{width: `1300px`,height: `200px`, textAlign: `center`}}
+                  style={{width: `1000px`,height: `600px`, textAlign: `center`}}
                   src="../images/Presidenta.jpg"
                 />
             </div>

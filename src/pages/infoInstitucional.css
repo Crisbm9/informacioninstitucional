@@ -25,7 +25,9 @@
 
 .imgInst{
   width:1000px;
-  height: 600px;  
+  height: 600px;
+  align-items: center; 
+  margin: 1em;
 }
 
 
