@@ -1,0 +1,49 @@
+.flexintitucional{
+  display: flex;
+}
+.indiceInstitucional{
+  background-color: #e6e0e0;
+  padding-right: 40px;
+}
+.Iinstitucional{
+ margin-left: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.flexintitucional2{
+  display: flex;
+
+}
+.imgInst1{
+  width:600px; 
+  height: 300px;
+  margin-left: 27.9%;
+  margin-bottom: 1.5em;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgInst{
+  width:1000px;
+  height: 600px;  
+}
+
+
+.aInst {
+  align-self: stretch;
+  text-decoration: none;
+  color: black;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .3s;
+}
+.aInst:hover, .aInst:focus {
+  background-size: 100% 2px;
+}
+
+/* background-image: url("../componentes/images/texture4.jpg");
+border: 2px solid black;
+padding: 20px;
+border-radius: 10px; */
