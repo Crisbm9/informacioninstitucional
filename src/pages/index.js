@@ -47,7 +47,7 @@ const InfoInstitucional = () => {
               </p>
               </div>
             </div>
-            <p  style={{marginRight:`auto`}}>
+            <p  style={{marginLeft:`1em`}}>
               Ana de la Cueva<br></br>
               Presidenta de Patrimonio Nacional
             </p>

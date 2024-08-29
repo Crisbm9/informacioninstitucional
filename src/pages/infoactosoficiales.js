@@ -2,7 +2,7 @@ import * as React from "react"
 import Layout from "../componentes/layout";
 
 import './infoInstitucional.css';
-// import { StaticImage } from "gatsby-plugin-image"
+import { StaticImage } from "gatsby-plugin-image"
 
 
 
@@ -25,15 +25,13 @@ const InfoOficiales = () => {
           </div>
 
           <div className="Iinstitucional">
-            <h1 style={{textAlign: `center`}}>Actos oficiales e institucionales</h1>  
-            <p>
-               <div className="imgInst">
-                {/* <StaticImage 
-                  style={{width: `1300px`,height: `200px`, textAlign: `center`}}
-                  src="..\componentes\images\icon.png"
-                /> */}
-              </div>
-            </p>
+            <h1 style={{textAlign: `center`}}>Actos oficiales e institucionales</h1>
+            <div className="imgInst">
+                <StaticImage 
+                  style={{width: `1000px`,height: `600px`, textAlign: `center`}}
+                  src="../images/actos.jpg"
+                />
+            </div>  
             <p>
             Cada año los Palacios y Monasterios del Patrimonio Nacional acogen actos oficiales presididos por S.M. el Rey de España. Las Ceremonias de Estado conservan su carácter histórico y el protocolo tradicional. Entre las más importantes se encuentran las recepciones de gala a los Jefes de Estado que visitan nuestro país, o la presentación de cartas credenciales ante S.M. el Rey por los nuevos Embajadores extranjeros acreditados en España. En el Palacio Real de Madrid, residencia oficial del monarca, también se celebran las Audiencias Militares, el Acto del Relevo Solemne de la Guardia Real, las recepciones al Cuerpo Diplomático acreditado en España, la Pascua Militar o la Recepción del 12 de octubre, día de la Fiesta Nacional.
             </p>
