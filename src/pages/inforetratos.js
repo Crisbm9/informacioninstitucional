@@ -18,7 +18,6 @@ const InfoInstitucional = () => {
           <a href="/infoadministrador" role='button' className="aInst">Consejo de administrador</a> <br/><br/>
           <a href="/infoactosoficiales" role='button' className="aInst">Actos oficiales e institucionales</a> <br/><br/>
           <a href="/infocasaRey" role='button' className="aInst">Casa de S.M. el rey</a> <br/><br/>
-          <a href="/inforetratosOficiales" role='button' className="aInst">Retratos oficiales</a> <br/><br/>
           <a href="/infoministerio" role='button' className="aInst">Ministerio de la presidencia</a> <br/><br/>
 
 
