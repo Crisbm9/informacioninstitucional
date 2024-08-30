@@ -24,15 +24,16 @@ const Presidenta = () => {
 
           <div className="Iinstitucional">
             <h1 style={{textAlign: `center`}}>Bienvenida de la Presidenta</h1>
-            <h3 style={{color:`#e2bb8f`}}> Ana de la Cueva, presidenta de Patrimonio Nacional </h3>  
+              
             <p>
                <div className="imgInst">
                 <StaticImage 
                   style={{width: `1000px`,height: `600px`, textAlign: `center`}}
                   src="../images/presi.jpeg"
                 />
+                
               </div>
-                        
+            <h3 style={{color:`#e2bb8f`}}> Ana de la Cueva, presidenta de Patrimonio Nacional </h3>            
             </p>
             <p>
             Bienvenidos a Patrimonio Nacional.

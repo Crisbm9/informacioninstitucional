@@ -18,10 +18,10 @@
 .imgInst1{
   width:1000px; 
   height: 600px;
-  margin-left: 15%;
   margin-bottom: 1.5em;
   justify-content: center;
   align-items: center;
+  margin: 1em;
 }
 
 .imgInst{
@@ -29,6 +29,7 @@
   height: 600px;
   align-items: center; 
   margin: 1em;
+
 }
 
 
@@ -46,7 +47,9 @@
   background-size: 100% 2px;
 }
 
-/* background-image: url("../componentes/images/texture4.jpg");
-border: 2px solid black;
-padding: 20px;
-border-radius: 10px; */
+.imgInst2{
+  width:600px; 
+  height: 1000px;
+  margin: 1em;
+}
+
